@@ -1,0 +1,15 @@
+{
+  "name": "USDT.z Assets",
+  "timestamp": "2025-10-22T00:00:00+00:00",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x332Fb8C6839dAAF28a130BA6113384c24c272fC0",
+      "name": "Tether USD ZED 2.0",
+      "symbol": "USDT.z",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Maestrocyrpto/usdtz-assets/main/assets/smartchain/0x332Fb8C6839dAAF28a130BA6113384c24c272fC0/logo.png"
+    }
+  ]
+}
