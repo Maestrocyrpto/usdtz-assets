@@ -1,5 +1,5 @@
 {
-  "name": "Tether USD ZED 20",
+  "name": "Tether USD Bridged ZED 20",
   "symbol": "USDT.z",
   "type": "BEP20",
   "decimals": 18,
@@ -16,7 +16,7 @@
     },
     {
       "name": "github",
-      "url": "https://github.com/"
+      "url": "https://github.com/Maestrocyrpto/usdtz-assets"
     }
   ]
 }
