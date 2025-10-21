@@ -1,0 +1,21 @@
+{
+  "name": "Tether USD ZED 20",
+  "symbol": "USDT.z",
+  "type": "BEP20",
+  "decimals": 18,
+  "description": "A bridged stable token pegged 1:1 to USD, deployed on BNB Smart Chain.",
+  "website": "https://usdtzed.com/",
+  "explorer": "https://bscscan.com/token/0x332Fb8C6839dAAF28a130BA6113384c24c272fC0",
+  "status": "active",
+  "id": "0x332Fb8C6839dAAF28a130BA6113384c24c272fC0",
+  "links": [
+    {
+      "name": "website",
+      "url": "https://usdtzed.com/"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/"
+    }
+  ]
+}
