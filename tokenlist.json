@@ -1,7 +1,8 @@
 {
   "name": "USDT.z Token List",
   "logoURI": "https://raw.githubusercontent.com/Maestrocyrpto/usdtz-assets/main/assets/smartchain/0x332Fb8C6839dAAF28a130BA6113384c24c272fC0/logo.png",
-  "timestamp": "2025-10-27T00:00:00Z",
+  "keywords": ["bep20", "stablecoin", "usdtz", "zed"],
+  "timestamp": "2025-10-27T00:00:00+00:00",
   "version": {
     "major": 1,
     "minor": 0,
